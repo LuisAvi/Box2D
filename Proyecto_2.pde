@@ -5,6 +5,8 @@ ventana que se genera ya que la funcion que mueve al jugador se basa en la posic
 mouse y si antes de iniciar no se da clic en la pantalla del juego éste no aparecera
 sino hasta dejar presionado el mouse ya que toma la posicion que el mouse tiene en
 ese momento.
+Los archivos pacman.png, triste.png, space.png, Shooting Stars.mp3 y la tipografia Delicious-50.vlw se encuentran en el repositorio
+del GitHub, que van en la carpeta "data".
 */
 //Se esta usando la libreria box2d que continuacion se llaman
 import shiffman.box2d.*;
